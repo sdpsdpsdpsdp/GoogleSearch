@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleSearch</string>
+    <string name="BaiduKey">xGL1Ka3PEKkuRqdfbNxx1oa9XHo6OzH2</string>
+    <string name="SearchInfo">搜索地点信息</string>
+    <string name="PleaseOpenLocationPer">请开启定位权限</string>
+    <string name="LocationIng">定位中...</string>
+    <string name="CurrentLocation">您的位置</string>
+    <string name="Search">搜索</string>
+    <string name="PleaseInputSearchInfo">请输入查询的信息</string>
+    <string name="open_activity">Open Autocomplete Activity</string>
+    <string name="selected_place">Last Selected Place:</string>
+    <string name="intro_message">intro message</string>
+    <string name="GoogleKey">AIzaSyBfmSWA6C0x2Av_70baZXmBF_zLG_SUwKY</string>
+    <string name="Loading">加载中...</string>
+</resources>
